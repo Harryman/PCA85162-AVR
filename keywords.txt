@@ -1,0 +1,7 @@
+PCA	KEYWORD1
+print	KEYWORD2
+drawColon	KEYWORD2
+updateDisplay	KEYWORD2
+clearBuff	KEYWORD2
+blink	KEYWORD2
+start	KEYWORD2
